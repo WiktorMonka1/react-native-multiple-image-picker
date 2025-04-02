@@ -131,8 +131,8 @@ dependencies {
     implementation 'io.github.lucksiege:compress:v3.11.2'
 
     // uCrop library (Not necessary)
-    implementation 'io.github.lucksiege:ucrop:v3.11.2'
-    // implementation 'com.github.yalantis:ucrop:2.2.6-native' 
+    // implementation 'io.github.lucksiege:ucrop:v3.11.2'
+    implementation 'com.github.yalantis:ucrop:2.2.6-native' 
 
     // simple camerax library (Not necessary)
     implementation 'io.github.lucksiege:camerax:v3.11.2'
